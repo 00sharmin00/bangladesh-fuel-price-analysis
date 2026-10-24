@@ -1,0 +1,117 @@
+﻿Month,Snapshot_Date,Fuel_Type,Price_BDT_Per_Litre,Previous_Month_Price_BDT,Monthly_Change_BDT,Source_URL,Data_Note
+2024-06,2024-06-30,Diesel,107.75,,,https://cpd.org.bd/resources/2026/01/IRBD-FY26-1st-Reading-Report.pdf,2024 values are drawn from CPD historical table; some values are rounded as published.
+2024-06,2024-06-30,Kerosene,107.75,,,https://cpd.org.bd/resources/2026/01/IRBD-FY26-1st-Reading-Report.pdf,2024 values are drawn from CPD historical table; some values are rounded as published.
+2024-06,2024-06-30,Petrol,127.0,,,https://cpd.org.bd/resources/2026/01/IRBD-FY26-1st-Reading-Report.pdf,2024 values are drawn from CPD historical table; some values are rounded as published.
+2024-06,2024-06-30,Octane,131.0,,,https://cpd.org.bd/resources/2026/01/IRBD-FY26-1st-Reading-Report.pdf,2024 values are drawn from CPD historical table; some values are rounded as published.
+2024-07,2024-07-31,Diesel,106.75,107.75,-1.0,https://cpd.org.bd/resources/2026/01/IRBD-FY26-1st-Reading-Report.pdf,2024 values are drawn from CPD historical table; some values are rounded as published.
+2024-07,2024-07-31,Kerosene,107.75,107.75,0.0,https://cpd.org.bd/resources/2026/01/IRBD-FY26-1st-Reading-Report.pdf,2024 values are drawn from CPD historical table; some values are rounded as published.
+2024-07,2024-07-31,Petrol,127.0,127.0,0.0,https://cpd.org.bd/resources/2026/01/IRBD-FY26-1st-Reading-Report.pdf,2024 values are drawn from CPD historical table; some values are rounded as published.
+2024-07,2024-07-31,Octane,131.0,131.0,0.0,https://cpd.org.bd/resources/2026/01/IRBD-FY26-1st-Reading-Report.pdf,2024 values are drawn from CPD historical table; some values are rounded as published.
+2024-08,2024-08-31,Diesel,106.75,106.75,0.0,https://cpd.org.bd/resources/2026/01/IRBD-FY26-1st-Reading-Report.pdf,2024 values are drawn from CPD historical table; some values are rounded as published.
+2024-08,2024-08-31,Kerosene,107.75,107.75,0.0,https://cpd.org.bd/resources/2026/01/IRBD-FY26-1st-Reading-Report.pdf,2024 values are drawn from CPD historical table; some values are rounded as published.
+2024-08,2024-08-31,Petrol,127.0,127.0,0.0,https://cpd.org.bd/resources/2026/01/IRBD-FY26-1st-Reading-Report.pdf,2024 values are drawn from CPD historical table; some values are rounded as published.
+2024-08,2024-08-31,Octane,131.0,131.0,0.0,https://cpd.org.bd/resources/2026/01/IRBD-FY26-1st-Reading-Report.pdf,2024 values are drawn from CPD historical table; some values are rounded as published.
+2024-09,2024-09-30,Diesel,105.5,106.75,-1.25,https://cpd.org.bd/resources/2026/01/IRBD-FY26-1st-Reading-Report.pdf,2024 values are drawn from CPD historical table; some values are rounded as published.
+2024-09,2024-09-30,Kerosene,105.5,107.75,-2.25,https://cpd.org.bd/resources/2026/01/IRBD-FY26-1st-Reading-Report.pdf,2024 values are drawn from CPD historical table; some values are rounded as published.
+2024-09,2024-09-30,Petrol,121.0,127.0,-6.0,https://cpd.org.bd/resources/2026/01/IRBD-FY26-1st-Reading-Report.pdf,2024 values are drawn from CPD historical table; some values are rounded as published.
+2024-09,2024-09-30,Octane,125.0,131.0,-6.0,https://cpd.org.bd/resources/2026/01/IRBD-FY26-1st-Reading-Report.pdf,2024 values are drawn from CPD historical table; some values are rounded as published.
+2024-10,2024-10-31,Diesel,105.5,105.5,0.0,https://cpd.org.bd/resources/2026/01/IRBD-FY26-1st-Reading-Report.pdf,2024 values are drawn from CPD historical table; some values are rounded as published.
+2024-10,2024-10-31,Kerosene,105.5,105.5,0.0,https://cpd.org.bd/resources/2026/01/IRBD-FY26-1st-Reading-Report.pdf,2024 values are drawn from CPD historical table; some values are rounded as published.
+2024-10,2024-10-31,Petrol,125.0,121.0,4.0,https://cpd.org.bd/resources/2026/01/IRBD-FY26-1st-Reading-Report.pdf,2024 values are drawn from CPD historical table; some values are rounded as published.
+2024-10,2024-10-31,Octane,121.0,125.0,-4.0,https://cpd.org.bd/resources/2026/01/IRBD-FY26-1st-Reading-Report.pdf,2024 values are drawn from CPD historical table; some values are rounded as published.
+2024-11,2024-11-30,Diesel,105.0,105.5,-0.5,https://cpd.org.bd/resources/2026/01/IRBD-FY26-1st-Reading-Report.pdf,2024 values are drawn from CPD historical table; some values are rounded as published.
+2024-11,2024-11-30,Kerosene,105.0,105.5,-0.5,https://cpd.org.bd/resources/2026/01/IRBD-FY26-1st-Reading-Report.pdf,2024 values are drawn from CPD historical table; some values are rounded as published.
+2024-11,2024-11-30,Petrol,125.0,125.0,0.0,https://cpd.org.bd/resources/2026/01/IRBD-FY26-1st-Reading-Report.pdf,2024 values are drawn from CPD historical table; some values are rounded as published.
+2024-11,2024-11-30,Octane,121.0,121.0,0.0,https://cpd.org.bd/resources/2026/01/IRBD-FY26-1st-Reading-Report.pdf,2024 values are drawn from CPD historical table; some values are rounded as published.
+2024-12,2024-12-31,Diesel,104.0,105.0,-1.0,https://cpd.org.bd/resources/2026/01/IRBD-FY26-1st-Reading-Report.pdf,2024 values are drawn from CPD historical table; some values are rounded as published.
+2024-12,2024-12-31,Kerosene,104.0,105.0,-1.0,https://cpd.org.bd/resources/2026/01/IRBD-FY26-1st-Reading-Report.pdf,2024 values are drawn from CPD historical table; some values are rounded as published.
+2024-12,2024-12-31,Petrol,121.0,125.0,-4.0,https://cpd.org.bd/resources/2026/01/IRBD-FY26-1st-Reading-Report.pdf,2024 values are drawn from CPD historical table; some values are rounded as published.
+2024-12,2024-12-31,Octane,125.0,121.0,4.0,https://cpd.org.bd/resources/2026/01/IRBD-FY26-1st-Reading-Report.pdf,2024 values are drawn from CPD historical table; some values are rounded as published.
+2025-01,2025-01-31,Diesel,104.0,104.0,0.0,https://bdnews24.com/business/26f114019db1,Monthly price snapshot; see source URL for announcement.
+2025-01,2025-01-31,Kerosene,104.0,104.0,0.0,https://bdnews24.com/business/26f114019db1,Monthly price snapshot; see source URL for announcement.
+2025-01,2025-01-31,Petrol,121.0,121.0,0.0,https://bdnews24.com/business/26f114019db1,Monthly price snapshot; see source URL for announcement.
+2025-01,2025-01-31,Octane,125.0,125.0,0.0,https://bdnews24.com/business/26f114019db1,Monthly price snapshot; see source URL for announcement.
+2025-02,2025-02-28,Diesel,105.0,104.0,1.0,https://www.tbsnews.net/bangladesh/energy/govt-hikes-diesel-kerosene-petrol-octane-prices-tk1-february-1057451,Monthly price snapshot; see source URL for announcement.
+2025-02,2025-02-28,Kerosene,105.0,104.0,1.0,https://www.tbsnews.net/bangladesh/energy/govt-hikes-diesel-kerosene-petrol-octane-prices-tk1-february-1057451,Monthly price snapshot; see source URL for announcement.
+2025-02,2025-02-28,Petrol,122.0,121.0,1.0,https://www.tbsnews.net/bangladesh/energy/govt-hikes-diesel-kerosene-petrol-octane-prices-tk1-february-1057451,Monthly price snapshot; see source URL for announcement.
+2025-02,2025-02-28,Octane,126.0,125.0,1.0,https://www.tbsnews.net/bangladesh/energy/govt-hikes-diesel-kerosene-petrol-octane-prices-tk1-february-1057451,Monthly price snapshot; see source URL for announcement.
+2025-03,2025-03-31,Diesel,105.0,105.0,0.0,https://bdnews24.com/bangladesh/b850bf10d612,Monthly price snapshot; see source URL for announcement.
+2025-03,2025-03-31,Kerosene,105.0,105.0,0.0,https://bdnews24.com/bangladesh/b850bf10d612,Monthly price snapshot; see source URL for announcement.
+2025-03,2025-03-31,Petrol,122.0,122.0,0.0,https://bdnews24.com/bangladesh/b850bf10d612,Monthly price snapshot; see source URL for announcement.
+2025-03,2025-03-31,Octane,126.0,126.0,0.0,https://bdnews24.com/bangladesh/b850bf10d612,Monthly price snapshot; see source URL for announcement.
+2025-04,2025-04-30,Diesel,105.0,105.0,0.0,https://bdnews24.com/bangladesh/b850bf10d612,Monthly price snapshot; see source URL for announcement.
+2025-04,2025-04-30,Kerosene,105.0,105.0,0.0,https://bdnews24.com/bangladesh/b850bf10d612,Monthly price snapshot; see source URL for announcement.
+2025-04,2025-04-30,Petrol,122.0,122.0,0.0,https://bdnews24.com/bangladesh/b850bf10d612,Monthly price snapshot; see source URL for announcement.
+2025-04,2025-04-30,Octane,126.0,126.0,0.0,https://bdnews24.com/bangladesh/b850bf10d612,Monthly price snapshot; see source URL for announcement.
+2025-05,2025-05-31,Diesel,104.0,105.0,-1.0,https://www.bssnews.net/news/268612,Monthly price snapshot; see source URL for announcement.
+2025-05,2025-05-31,Kerosene,104.0,105.0,-1.0,https://www.bssnews.net/news/268612,Monthly price snapshot; see source URL for announcement.
+2025-05,2025-05-31,Petrol,121.0,122.0,-1.0,https://www.bssnews.net/news/268612,Monthly price snapshot; see source URL for announcement.
+2025-05,2025-05-31,Octane,125.0,126.0,-1.0,https://www.bssnews.net/news/268612,Monthly price snapshot; see source URL for announcement.
+2025-06,2025-06-30,Diesel,102.0,104.0,-2.0,https://www.bssnews.net/news-flash/278748,Monthly price snapshot; see source URL for announcement.
+2025-06,2025-06-30,Kerosene,114.0,104.0,10.0,https://www.bssnews.net/news-flash/278748,Monthly price snapshot; see source URL for announcement.
+2025-06,2025-06-30,Petrol,118.0,121.0,-3.0,https://www.bssnews.net/news-flash/278748,Monthly price snapshot; see source URL for announcement.
+2025-06,2025-06-30,Octane,122.0,125.0,-3.0,https://www.bssnews.net/news-flash/278748,Monthly price snapshot; see source URL for announcement.
+2025-07,2025-07-31,Diesel,102.0,102.0,0.0,https://www.bssnews.net/news-flash/278748,Monthly price held unchanged from prior effective notification; verify source link.
+2025-07,2025-07-31,Kerosene,114.0,114.0,0.0,https://www.bssnews.net/news-flash/278748,Monthly price held unchanged from prior effective notification; verify source link.
+2025-07,2025-07-31,Petrol,118.0,118.0,0.0,https://www.bssnews.net/news-flash/278748,Monthly price held unchanged from prior effective notification; verify source link.
+2025-07,2025-07-31,Octane,122.0,122.0,0.0,https://www.bssnews.net/news-flash/278748,Monthly price held unchanged from prior effective notification; verify source link.
+2025-08,2025-08-31,Diesel,102.0,102.0,0.0,https://www.bssnews.net/news-flash/278748,Monthly price held unchanged from prior effective notification; verify source link.
+2025-08,2025-08-31,Kerosene,114.0,114.0,0.0,https://www.bssnews.net/news-flash/278748,Monthly price held unchanged from prior effective notification; verify source link.
+2025-08,2025-08-31,Petrol,118.0,118.0,0.0,https://www.bssnews.net/news-flash/278748,Monthly price held unchanged from prior effective notification; verify source link.
+2025-08,2025-08-31,Octane,122.0,122.0,0.0,https://www.bssnews.net/news-flash/278748,Monthly price held unchanged from prior effective notification; verify source link.
+2025-09,2025-09-30,Diesel,102.0,102.0,0.0,https://www.bssnews.net/news-flash/278748,Monthly price held unchanged from prior effective notification; verify source link.
+2025-09,2025-09-30,Kerosene,114.0,114.0,0.0,https://www.bssnews.net/news-flash/278748,Monthly price held unchanged from prior effective notification; verify source link.
+2025-09,2025-09-30,Petrol,118.0,118.0,0.0,https://www.bssnews.net/news-flash/278748,Monthly price held unchanged from prior effective notification; verify source link.
+2025-09,2025-09-30,Octane,122.0,122.0,0.0,https://www.bssnews.net/news-flash/278748,Monthly price held unchanged from prior effective notification; verify source link.
+2025-10,2025-10-31,Diesel,102.0,102.0,0.0,https://www.bssnews.net/news-flash/278748,Monthly price held unchanged from prior effective notification; verify source link.
+2025-10,2025-10-31,Kerosene,114.0,114.0,0.0,https://www.bssnews.net/news-flash/278748,Monthly price held unchanged from prior effective notification; verify source link.
+2025-10,2025-10-31,Petrol,118.0,118.0,0.0,https://www.bssnews.net/news-flash/278748,Monthly price held unchanged from prior effective notification; verify source link.
+2025-10,2025-10-31,Octane,122.0,122.0,0.0,https://www.bssnews.net/news-flash/278748,Monthly price held unchanged from prior effective notification; verify source link.
+2025-11,2025-11-30,Diesel,102.0,102.0,0.0,https://www.bssnews.net/news-flash/278748,Monthly price held unchanged from prior effective notification; verify source link.
+2025-11,2025-11-30,Kerosene,114.0,114.0,0.0,https://www.bssnews.net/news-flash/278748,Monthly price held unchanged from prior effective notification; verify source link.
+2025-11,2025-11-30,Petrol,118.0,118.0,0.0,https://www.bssnews.net/news-flash/278748,Monthly price held unchanged from prior effective notification; verify source link.
+2025-11,2025-11-30,Octane,122.0,122.0,0.0,https://www.bssnews.net/news-flash/278748,Monthly price held unchanged from prior effective notification; verify source link.
+2025-12,2025-12-31,Diesel,104.0,102.0,2.0,https://www.tbsnews.net/bangladesh/energy/govt-raises-fuel-prices-tk2-despite-global-oil-slump-1298841,Monthly price snapshot; see source URL for announcement.
+2025-12,2025-12-31,Kerosene,116.0,114.0,2.0,https://www.tbsnews.net/bangladesh/energy/govt-raises-fuel-prices-tk2-despite-global-oil-slump-1298841,Monthly price snapshot; see source URL for announcement.
+2025-12,2025-12-31,Petrol,120.0,118.0,2.0,https://www.tbsnews.net/bangladesh/energy/govt-raises-fuel-prices-tk2-despite-global-oil-slump-1298841,Monthly price snapshot; see source URL for announcement.
+2025-12,2025-12-31,Octane,124.0,122.0,2.0,https://www.tbsnews.net/bangladesh/energy/govt-raises-fuel-prices-tk2-despite-global-oil-slump-1298841,Monthly price snapshot; see source URL for announcement.
+2026-01,2026-01-31,Diesel,102.0,104.0,-2.0,https://www.bssnews.net/news/346874,Monthly price snapshot; see source URL for announcement.
+2026-01,2026-01-31,Kerosene,114.0,116.0,-2.0,https://www.bssnews.net/news/346874,Monthly price snapshot; see source URL for announcement.
+2026-01,2026-01-31,Petrol,118.0,120.0,-2.0,https://www.bssnews.net/news/346874,Monthly price snapshot; see source URL for announcement.
+2026-01,2026-01-31,Octane,122.0,124.0,-2.0,https://www.bssnews.net/news/346874,Monthly price snapshot; see source URL for announcement.
+2026-02,2026-02-28,Diesel,100.0,102.0,-2.0,https://www.thedailystar.net/environment/natural-resources/energy/news/govt-cuts-fuel-prices-tk-2-litre-feb-4095201,Monthly price snapshot; see source URL for announcement.
+2026-02,2026-02-28,Kerosene,112.0,114.0,-2.0,https://www.thedailystar.net/environment/natural-resources/energy/news/govt-cuts-fuel-prices-tk-2-litre-feb-4095201,Monthly price snapshot; see source URL for announcement.
+2026-02,2026-02-28,Petrol,116.0,118.0,-2.0,https://www.thedailystar.net/environment/natural-resources/energy/news/govt-cuts-fuel-prices-tk-2-litre-feb-4095201,Monthly price snapshot; see source URL for announcement.
+2026-02,2026-02-28,Octane,120.0,122.0,-2.0,https://www.thedailystar.net/environment/natural-resources/energy/news/govt-cuts-fuel-prices-tk-2-litre-feb-4095201,Monthly price snapshot; see source URL for announcement.
+2026-03,2026-03-31,Diesel,100.0,100.0,0.0,https://www.bssnews.net/news-flash/373245,Monthly price held unchanged from prior effective notification; verify source link.
+2026-03,2026-03-31,Kerosene,112.0,112.0,0.0,https://www.bssnews.net/news-flash/373245,Monthly price held unchanged from prior effective notification; verify source link.
+2026-03,2026-03-31,Petrol,116.0,116.0,0.0,https://www.bssnews.net/news-flash/373245,Monthly price held unchanged from prior effective notification; verify source link.
+2026-03,2026-03-31,Octane,120.0,120.0,0.0,https://www.bssnews.net/news-flash/373245,Monthly price held unchanged from prior effective notification; verify source link.
+2026-04,2026-04-30,Diesel,115.0,100.0,15.0,https://www.bssnews.net/news/379186,Month-end price; April 2026 reflects the revised rate effective 19 April.
+2026-04,2026-04-30,Kerosene,130.0,112.0,18.0,https://www.bssnews.net/news/379186,Month-end price; April 2026 reflects the revised rate effective 19 April.
+2026-04,2026-04-30,Petrol,135.0,116.0,19.0,https://www.bssnews.net/news/379186,Month-end price; April 2026 reflects the revised rate effective 19 April.
+2026-04,2026-04-30,Octane,140.0,120.0,20.0,https://www.bssnews.net/news/379186,Month-end price; April 2026 reflects the revised rate effective 19 April.
+2026-05,2026-05-31,Diesel,115.0,115.0,0.0,https://www.bssnews.net/news/383063,Monthly price held unchanged from prior effective notification; verify source link.
+2026-05,2026-05-31,Kerosene,130.0,130.0,0.0,https://www.bssnews.net/news/383063,Monthly price held unchanged from prior effective notification; verify source link.
+2026-05,2026-05-31,Petrol,135.0,135.0,0.0,https://www.bssnews.net/news/383063,Monthly price held unchanged from prior effective notification; verify source link.
+2026-05,2026-05-31,Octane,140.0,140.0,0.0,https://www.bssnews.net/news/383063,Monthly price held unchanged from prior effective notification; verify source link.
+2026-06,2026-06-30,Diesel,115.0,115.0,0.0,https://www.bssnews.net/news/391441,Monthly price snapshot; see source URL for announcement.
+2026-06,2026-06-30,Kerosene,135.0,130.0,5.0,https://www.bssnews.net/news/391441,Monthly price snapshot; see source URL for announcement.
+2026-06,2026-06-30,Petrol,140.0,135.0,5.0,https://www.bssnews.net/news/391441,Monthly price snapshot; see source URL for announcement.
+2026-06,2026-06-30,Octane,145.0,140.0,5.0,https://www.bssnews.net/news/391441,Monthly price snapshot; see source URL for announcement.
+2026-07,2026-07-31,Diesel,115.0,115.0,0.0,https://bdnews24.com/business/955509360f3e,Monthly price held unchanged from prior effective notification; verify source link.
+2026-07,2026-07-31,Kerosene,135.0,135.0,0.0,https://bdnews24.com/business/955509360f3e,Monthly price held unchanged from prior effective notification; verify source link.
+2026-07,2026-07-31,Petrol,140.0,140.0,0.0,https://bdnews24.com/business/955509360f3e,Monthly price held unchanged from prior effective notification; verify source link.
+2026-07,2026-07-31,Octane,145.0,145.0,0.0,https://bdnews24.com/business/955509360f3e,Monthly price held unchanged from prior effective notification; verify source link.
+2026-08,2026-08-31,Diesel,115.0,115.0,0.0,https://bdnews24.com/business/955509360f3e,Monthly price held unchanged from prior effective notification; verify source link.
+2026-08,2026-08-31,Kerosene,135.0,135.0,0.0,https://bdnews24.com/business/955509360f3e,Monthly price held unchanged from prior effective notification; verify source link.
+2026-08,2026-08-31,Petrol,140.0,140.0,0.0,https://bdnews24.com/business/955509360f3e,Monthly price held unchanged from prior effective notification; verify source link.
+2026-08,2026-08-31,Octane,145.0,145.0,0.0,https://bdnews24.com/business/955509360f3e,Monthly price held unchanged from prior effective notification; verify source link.
+2026-09,2026-09-30,Diesel,135.0,115.0,20.0,https://www.bssnews.net/news/national/426563,Monthly price snapshot; see source URL for announcement.
+2026-09,2026-09-30,Kerosene,155.0,135.0,20.0,https://www.bssnews.net/news/national/426563,Monthly price snapshot; see source URL for announcement.
+2026-09,2026-09-30,Petrol,160.0,140.0,20.0,https://www.bssnews.net/news/national/426563,Monthly price snapshot; see source URL for announcement.
+2026-09,2026-09-30,Octane,165.0,145.0,20.0,https://www.bssnews.net/news/national/426563,Monthly price snapshot; see source URL for announcement.
+2026-10,2026-10-31,Diesel,135.0,135.0,0.0,https://bdnews24.com/business/f3ub8nrf1p,Monthly price held unchanged from prior effective notification; verify source link.
+2026-10,2026-10-31,Kerosene,155.0,155.0,0.0,https://bdnews24.com/business/f3ub8nrf1p,Monthly price held unchanged from prior effective notification; verify source link.
+2026-10,2026-10-31,Petrol,160.0,160.0,0.0,https://bdnews24.com/business/f3ub8nrf1p,Monthly price held unchanged from prior effective notification; verify source link.
+2026-10,2026-10-31,Octane,165.0,165.0,0.0,https://bdnews24.com/business/f3ub8nrf1p,Monthly price held unchanged from prior effective notification; verify source link.
